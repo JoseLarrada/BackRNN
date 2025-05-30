@@ -1,0 +1,29 @@
+# FastAPI core
+fastapi==0.110.1
+uvicorn[standard]==0.29.0
+
+# Deep Learning (CNN + RNN/LSTM)
+tensorflow
+
+# Utilidades para manejo de imágenes y trazos
+numpy==1.26.4
+pillow==10.3.0
+opencv-python==4.9.0.80
+
+# Pydantic para validaciones de datos (incluido en FastAPI pero se especifica)
+pydantic==2.7.1
+
+# CORS y seguridad
+python-multipart==0.0.9
+aiofiles==23.2.1
+
+# Desarrollo y pruebas
+jupyterlab==4.1.5
+matplotlib==3.8.4
+scikit-learn==1.4.2
+
+# (Opcional) Serialización de modelos
+joblib==1.4.2
+
+#Graficas para las metricas
+matplotlib

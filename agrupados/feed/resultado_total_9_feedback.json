@@ -1,0 +1,350 @@
+[
+  {
+    "label": "9",
+    "quality": 99.942,
+    "promedios": {
+      "longitud_total": 2.092,
+      "tiempo_total": 2.046,
+      "cambios_direccion": 202,
+      "curvatura_promedio": 21.56,
+      "simetria_horizontal": 0.221
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 99.434,
+    "promedios": {
+      "longitud_total": 1.851,
+      "tiempo_total": 3.3,
+      "cambios_direccion": 180,
+      "curvatura_promedio": 19.43,
+      "simetria_horizontal": 0.229
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 98.228,
+    "promedios": {
+      "longitud_total": 2.216,
+      "tiempo_total": 3.45,
+      "cambios_direccion": 256,
+      "curvatura_promedio": 23.98,
+      "simetria_horizontal": 0.309
+    },
+    "feedback": "Buen desempeño general, aunque podria mejorar en estabilidad y simetria."
+  },
+  {
+    "label": "9",
+    "quality": 99.861,
+    "promedios": {
+      "longitud_total": 1.951,
+      "tiempo_total": 3.654,
+      "cambios_direccion": 236,
+      "curvatura_promedio": 24.27,
+      "simetria_horizontal": 0.235
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 87.588,
+    "promedios": {
+      "longitud_total": 2.1,
+      "tiempo_total": 2.738,
+      "cambios_direccion": 224,
+      "curvatura_promedio": 24.55,
+      "simetria_horizontal": 0.28
+    },
+    "feedback": "Buen desempeño general, aunque podria mejorar en estabilidad y simetria."
+  },
+  {
+    "label": "9",
+    "quality": 97.609,
+    "promedios": {
+      "longitud_total": 2.212,
+      "tiempo_total": 3.666,
+      "cambios_direccion": 244,
+      "curvatura_promedio": 22.8,
+      "simetria_horizontal": 0.285
+    },
+    "feedback": "Buen desempeño general, aunque podria mejorar en estabilidad y simetria."
+  },
+  {
+    "label": "9",
+    "quality": 99.867,
+    "promedios": {
+      "longitud_total": 1.775,
+      "tiempo_total": 3.926,
+      "cambios_direccion": 236,
+      "curvatura_promedio": 24.7,
+      "simetria_horizontal": 0.193
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 99.999,
+    "promedios": {
+      "longitud_total": 2.167,
+      "tiempo_total": 2.273,
+      "cambios_direccion": 206,
+      "curvatura_promedio": 21.51,
+      "simetria_horizontal": 0.35
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 99.999,
+    "promedios": {
+      "longitud_total": 1.637,
+      "tiempo_total": 1.987,
+      "cambios_direccion": 170,
+      "curvatura_promedio": 23.34,
+      "simetria_horizontal": 0.189
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 100.0,
+    "promedios": {
+      "longitud_total": 1.886,
+      "tiempo_total": 2.808,
+      "cambios_direccion": 274,
+      "curvatura_promedio": 28.78,
+      "simetria_horizontal": 0.224
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 99.981,
+    "promedios": {
+      "longitud_total": 2.707,
+      "tiempo_total": 1.81,
+      "cambios_direccion": 218,
+      "curvatura_promedio": 20.78,
+      "simetria_horizontal": 0.355
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 100.0,
+    "promedios": {
+      "longitud_total": 2.479,
+      "tiempo_total": 3.038,
+      "cambios_direccion": 340,
+      "curvatura_promedio": 31.01,
+      "simetria_horizontal": 0.294
+    },
+    "feedback": "Excelente nivel de detalle y dominio en trazos complejos."
+  },
+  {
+    "label": "9",
+    "quality": 99.984,
+    "promedios": {
+      "longitud_total": 2.042,
+      "tiempo_total": 2.304,
+      "cambios_direccion": 216,
+      "curvatura_promedio": 24.02,
+      "simetria_horizontal": 0.273
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 99.884,
+    "promedios": {
+      "longitud_total": 1.608,
+      "tiempo_total": 2.251,
+      "cambios_direccion": 164,
+      "curvatura_promedio": 21.13,
+      "simetria_horizontal": 0.177
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 100.0,
+    "promedios": {
+      "longitud_total": 1.831,
+      "tiempo_total": 3.017,
+      "cambios_direccion": 250,
+      "curvatura_promedio": 28.58,
+      "simetria_horizontal": 0.209
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 99.996,
+    "promedios": {
+      "longitud_total": 1.877,
+      "tiempo_total": 2.182,
+      "cambios_direccion": 204,
+      "curvatura_promedio": 24.94,
+      "simetria_horizontal": 0.255
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 99.306,
+    "promedios": {
+      "longitud_total": 1.583,
+      "tiempo_total": 2.47,
+      "cambios_direccion": 156,
+      "curvatura_promedio": 19.46,
+      "simetria_horizontal": 0.161
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 99.988,
+    "promedios": {
+      "longitud_total": 1.572,
+      "tiempo_total": 2.148,
+      "cambios_direccion": 182,
+      "curvatura_promedio": 22.42,
+      "simetria_horizontal": 0.157
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 99.992,
+    "promedios": {
+      "longitud_total": 1.642,
+      "tiempo_total": 2.11,
+      "cambios_direccion": 248,
+      "curvatura_promedio": 30.38,
+      "simetria_horizontal": 0.142
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 99.957,
+    "promedios": {
+      "longitud_total": 1.537,
+      "tiempo_total": 2.27,
+      "cambios_direccion": 154,
+      "curvatura_promedio": 22.0,
+      "simetria_horizontal": 0.178
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 100.0,
+    "promedios": {
+      "longitud_total": 1.794,
+      "tiempo_total": 1.984,
+      "cambios_direccion": 170,
+      "curvatura_promedio": 20.29,
+      "simetria_horizontal": 0.184
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 100.0,
+    "promedios": {
+      "longitud_total": 1.77,
+      "tiempo_total": 2.368,
+      "cambios_direccion": 176,
+      "curvatura_promedio": 20.16,
+      "simetria_horizontal": 0.192
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 99.993,
+    "promedios": {
+      "longitud_total": 1.921,
+      "tiempo_total": 2.142,
+      "cambios_direccion": 186,
+      "curvatura_promedio": 19.54,
+      "simetria_horizontal": 0.177
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 99.996,
+    "promedios": {
+      "longitud_total": 2.494,
+      "tiempo_total": 1.8,
+      "cambios_direccion": 238,
+      "curvatura_promedio": 25.82,
+      "simetria_horizontal": 0.327
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 100.0,
+    "promedios": {
+      "longitud_total": 1.913,
+      "tiempo_total": 1.806,
+      "cambios_direccion": 187,
+      "curvatura_promedio": 23.57,
+      "simetria_horizontal": 0.221
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 100.0,
+    "promedios": {
+      "longitud_total": 1.713,
+      "tiempo_total": 1.79,
+      "cambios_direccion": 161,
+      "curvatura_promedio": 24.06,
+      "simetria_horizontal": 0.186
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 100.0,
+    "promedios": {
+      "longitud_total": 1.712,
+      "tiempo_total": 1.715,
+      "cambios_direccion": 162,
+      "curvatura_promedio": 20.4,
+      "simetria_horizontal": 0.159
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 100.0,
+    "promedios": {
+      "longitud_total": 1.671,
+      "tiempo_total": 1.025,
+      "cambios_direccion": 116,
+      "curvatura_promedio": 23.03,
+      "simetria_horizontal": 0.203
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  },
+  {
+    "label": "9",
+    "quality": 99.927,
+    "promedios": {
+      "longitud_total": 1.88,
+      "tiempo_total": 2.044,
+      "cambios_direccion": 178,
+      "curvatura_promedio": 21.14,
+      "simetria_horizontal": 0.254
+    },
+    "feedback": "Trazado preciso, fluido y bien equilibrado."
+  }
+]
